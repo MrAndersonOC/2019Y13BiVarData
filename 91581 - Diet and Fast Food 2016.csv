@@ -1,0 +1,108 @@
+Outlet,Type,Name,Serve,Cal,Carb,T_Fat,S_Fat,Tr_Fats,Na
+Carl's Jr,Burger,Bacon & Egg Burrito,208,570,37,33,11,,990
+Carl's Jr,Burger,Bacon Cheese Six Dollar Burger,409,1070,50,76,30,,1910
+Wendy's,Burger,Baconator,,830,35,51,22,2.5,1920
+Carl's Jr,Burger,Big Hamburger,209,470,54,17,6,,1060
+McDonald's,Burger,Big Mac,214,540,43,29,10,1.5,1040
+McDonald's,Burger,Big N' Tasty,206,460,37,24,8,1.5,720
+McDonald's,Burger,Big N' Tasty (cheese),220,510,38,28,11,1.5,960
+Carl's Jr,Burger,Breakfast Burger,309,830,65,47,15,,1580
+Carl's Jr,Burger,Charbroiled BBQ,239,360,48,4.5,1,,1150
+Carl's Jr,Burger,Charbroiled Club,264,550,43,25,7,,1410
+Carl's Jr,Burger,Charbroiled Santa Fe,264,610,43,32,8,,1540
+Subway,Sandwich,Cheese Sandwich,167,400,43,17,7,0,940
+Subway,Sandwich,Cheese Wrap,159,390,37,19,8,0,1050
+Carl's Jr,Chicken,Chicken Breast Strips (5pc),215,710,46,41,6,,2020
+Wendy's,Chicken,Chicken Club,,540,49,25,7,0.5,1410
+Burger King,Fries,Chicken Fries (6pc),85,260,18,15,3.5,3,650
+McDonald's,Chicken,Chicken McNuggets (6pc),96,250,15,15,3,1.5,670
+Wendy's,Chicken,Chicken Nuggets (5pc),,230,12,15,3,0,520
+McDonald's,Chicken,Chicken Selects Premium Strips (5pc),221,630,46,33,6,4.5,1550
+Burger King,Chicken,Chicken Tenders (6pc),92,250,16,15,3.5,2.5,720
+Burger King,Chicken,Chick'n Crisp (with mayo),144,480,36,31,5,2,870
+Subway,Sandwich,Chipotle Steak & Cheese Sandwich,259,580,48,31,11,0.5,1400
+Subway,Sandwich,Chipotle Steak & Cheese Wrap,251,570,41,33,11,0.5,1510
+Wendy's,Chicken,Crispy Chicken,,320,34,14,2.5,0,660
+KFC,Chicken,Crispy Twister,252,550,49,28,6,0,1500
+Burger King,Sandwich,"Croissan'wich Bacon, Egg & Cheese",122,340,26,20,7,2,890
+Burger King,Sandwich,Croissan'wich Egg & Cheese,115,300,26,17,6,2,740
+Burger King,Sandwich,"Croissan'wich Ham, Egg & Cheese",149,340,26,18,6,2,1230
+Burger King,Sandwich,Croissan'wich Sausage & Cheese,106,370,23,25,9,2,810
+Burger King,Sandwich,"Croissan'wich Sausage, Egg & Cheese",159,470,26,32,11,2.5,1060
+Wendy's,Burger,Double (cheese),,700,38,40,16,2.5,1500
+Subway,Sandwich,Double Bacon & Cheese Sandwich,185,500,44,25,11,0.5,1310
+Subway,Sandwich,Double Bacon & Cheese Wrap,177,480,38,27,11,0,1420
+Burger King,Burger,Double Cheeseburger,189,500,31,29,14,1.5,1030
+McDonald's,Burger,Double Cheeseburger,165,440,34,23,11,1.5,1150
+Burger King,Sandwich,"Double Croissan'wich Bacon, Egg & Cheese",142,430,27,27,10,2,1250
+Burger King,Sandwich,"Double Croissan'wich Ham, Bacon, Egg & Cheese",169,420,27,24,9,2,1600
+Burger King,Sandwich,"Double Croissan'wich Ham, Egg & Cheese",196,420,27,23,9,2,2210
+Burger King,Sandwich,"Double Croissan'wich Ham, Sausage, Egg & Cheese",206,550,27,37,14,2.5,2040
+Burger King,Sandwich,"Double Croissan'wich Sausage, Bacon, Egg & Cheese",179,550,27,39,14,2.5,1420
+Burger King,Sandwich,"Double Croissan'wich Sausage, Egg & Cheese",215,680,26,51,18,3,1590
+KFC,Chicken,Double Crunch,213,470,38,23,4.5,0,1190
+Burger King,Burger,Double Hamburger,164,410,30,21,9,1,600
+McDonald's,Burger,Double Quarter Pounder (cheese),279,740,40,42,19,2.5,1380
+Carl's Jr,Burger,Double Six Dollar Burger,602,1520,60,111,47,,2760
+Burger King,Burger,Double Stacker,190,610,32,39,16,1.5,1100
+Carl's Jr,Burger,Double Western Bacon Cheeseburger,323,970,71,52,21,,1820
+Burger King,Burger,Double Whopper,373,900,51,57,19,2,1090
+Burger King,Burger,Double Whopper (cheese),398,990,52,64,24,2.5,1520
+McDonald's,Burger,Egg McMuffin,139,300,30,12,5,0,820
+Burger King,Sandwich,Enormous Omelet Sandwich,266,730,44,45,16,1,1940
+Carl's Jr,Burger,Famous Star (cheese),278,660,53,39,12,,1260
+Burger King,Sandwich,Ham Omelet Sandwich,139,330,35,14,5,0,1130
+Wendy's,Chicken,Homestyle Chicken Fillet,,430,48,16,2.5,0,1140
+KFC,Chicken,Honey BBQ,147,280,40,3.5,1,0,780
+KFC,Chicken,Honey BBQ Snacker,101,210,32,3,0.5,0,530
+Subway,Sandwich,Honey Mustard Ham & Cheese Sandwich,216,460,51,19,8,0,1430
+Subway,Sandwich,Honey Mustard Ham & Cheese Wrap,208,450,45,21,8,0,1540
+Carl's Jr,Burger,Jalapeno Burger,286,720,50,45,8,,1320
+Wendy's,Burger,Jr. Hamburger,,230,26,8,3,0,500
+Carl's Jr,Burger,Loaded Breakfast Burrito,328,820,52,51,16,,1530
+Carl's Jr,Burger,Low Carb Six Dollar Burger,267,490,6,37,15,,1290
+McDonald's,Chicken,McChicken,147,360,40,16,3.5,1,790
+Burger King,Burger,Original Chicken Burger,219,660,52,40,8,2.5,1440
+Subway,Sandwich,Oven Roasted,238,310,48,5,1.5,0,830
+KFC,Chicken,Oven Roasted Twister,269,420,40,17,4,0,1250
+Carl's Jr,Burger,Philly Cheesesteak Burger,297,830,52,55,17,,1510
+KFC,Chicken,Popcorn Chicken (large),160,550,30,35,6,0,1600
+KFC,Fries,Potato Wedges,102,260,33,13,2.5,0,740
+McDonald's,Chicken,Premium Crispy Chicken Classic,229,500,61,17,3.5,1.5,1330
+McDonald's,Chicken,Premium Crispy Chicken Club,263,660,63,28,8,1.5,1860
+McDonald's,Chicken,Premium Grilled Chicken Classic,226,420,51,10,2,0,1190
+McDonald's,Chicken,Premium Grilled Chicken Club,260,570,52,21,7,0,1720
+Burger King,Burger,Quad Stacker,311,1000,34,68,30,3,1800
+McDonald's,Burger,Quarter Pounder,169,410,37,19,7,1,730
+McDonald's,Burger,Quarter Pounder (cheese),198,510,40,26,12,1.5,1190
+Burger King,Burger,Regular Burger,121,290,30,12,4.5,0,560
+McDonald's,Burger,Regular Burger,100,250,31,9,3.5,0.5,520
+Burger King,Fries,Regular Fries,160,500,57,28,6,6,820
+Carl's Jr,Fries,Regular Fries,198,620,80,29,6,,380
+McDonald's,Fries,Regular Fries,170,570,70,30,6,8,330
+Wendy's,Fries,Regular Fries,,540,69,26,4,1,550
+Burger King,Fries,Salt Not Added Fries,160,500,57,28,6,6,530
+McDonald's,Burger,Sausage McMuffin,114,370,29,22,8,0,850
+McDonald's,Burger,Sausage McMuffin (egg),164,450,30,27,10,0,920
+Carl's Jr,Burger,Six Dollar Burger,430,1010,60,68,27,,1980
+KFC,Chicken,Snacker,119,290,29,13,2.5,0,680
+Carl's Jr,Chicken,Spicy Chicken Fillet,213,560,59,30,6,,1480
+Wendy's,Chicken,Spicy Chicken Fillet,,440,46,16,2.5,0,1320
+Carl's Jr,Sandwich,Sunrise Croissant,172,560,27,41,15,,970
+Carl's Jr,Burger,Super Star (cheese),385,930,54,59,21,,1600
+KFC,Chicken,Tender Roast,236,380,29,13,3,0,1180
+Burger King,Burger,TENDERCRISP,284,790,68,44,8,4,1640
+Burger King,Burger,TENDERGRILL (with mayo),258,510,49,19,3.5,0.5,1180
+Wendy's,Burger,Triple (cheese),,980,38,59,25,3.5,2090
+Burger King,Burger,Triple Stacker,250,800,33,54,23,2,1450
+Burger King,Burger,Triple Whopper,456,1130,51,74,27,3,1160
+Burger King,Burger,Triple Whopper (cheese),480,1230,52,82,32,3.5,1590
+Wendy's,Chicken,Ultimate Chicken Grill,,320,36,7,1.5,0,950
+Carl's Jr,Burger,Western Bacon Cheeseburger,241,710,70,33,12,,1480
+Carl's Jr,Burger,Western Bacon Six Dollar Burger,382,1130,83,66,28,,2540
+Subway,Sandwich,Western Sandwich (cheese),207,440,45,18,8,0,1320
+Subway,Sandwich,Western Wrap (cheese),199,420,39,20,8,0,1430
+Burger King,Burger,Whopper,290,670,51,39,11,1.5,1020
+Burger King,Burger,Whopper (cheese),315,760,52,47,16,1.5,1450
+Burger King,Burger,Whopper Jr.,158,370,31,21,6,0.5,570
+Burger King,Burger,Whopper Jr. (cheese),170,410,32,24,8,1,780
